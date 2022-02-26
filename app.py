@@ -2,12 +2,12 @@
 from calendar import c
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 import plotly.graph_objects as go
 import plotly.express as px
-import matplotlib.pyplot as plt
+import matplotlib as plt 
+from matplotlib import pyplot as plt
 import arabic_reshaper
 from bidi.algorithm import get_display
 
